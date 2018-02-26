@@ -1,4 +1,4 @@
-package com.example.brian.swooth
+package com.example.brian.swoosh
 
 import org.junit.Test
 
